@@ -1427,6 +1427,7 @@ pre {
     outline: 0;
     box-shadow: 0 0 0 0.2rem rgba(77, 0, 218, 0.25); }
   .form-control::placeholder {
+    font-size: 19px;
     color: #6c757d;
     opacity: 1;
     
