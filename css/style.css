@@ -67,7 +67,7 @@ color: #2f2e41;}
 
 
 #landingpage{
-    background-image:url("/img/undraw_reading.png");
+    background-image:url("../img/undraw_reading.png");
     min-height: 750px;
     background-size:contain;
     background-position:center;
@@ -95,7 +95,7 @@ color: #2f2e41;}
 }
 #signuporlogin{
     min-height: 750px;
-    background-image: url("/img/undraw_forming_ideas.png");
+    background-image: url("../img/undraw_forming_ideas.png");
     background-size: 60%;
     background-position:left;
     background-repeat: no-repeat;
